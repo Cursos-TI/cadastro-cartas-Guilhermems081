@@ -11,7 +11,7 @@ int main() {
     int populacao1, populacao2, pontos_turisticos1, pontos_turisticos2;
     float pib1, pib2, area_da_cidade1, area_da_cidade2;
   // Área para entrada de dados
-
+  
   // Área para adicionar as informações da carta 1
     printf("====== DADOS DA CARTA 1 ======\n");
 
